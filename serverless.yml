@@ -1,4 +1,4 @@
-service: serverless-http-api-dynamodb
+service: serverless-http-api-dynamodb-lamd0806
 frameworkVersion: '2'
 
 provider:
